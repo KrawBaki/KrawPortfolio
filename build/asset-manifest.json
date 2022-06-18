@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1556955.css",
+    "main.js": "/static/js/main.c43fcc2e.js",
+    "static/media/photopng": "/static/media/photo5420138965824026206.50ed3fd6134e429d95d6.png",
+    "static/media/logo.png": "/static/media/logo.c0ec9ba7d90c229a1ebf.png",
+    "static/media/table.jpg": "/static/media/table.983a0ab1a525c48bb3e1.jpg",
+    "static/media/wd.jpg": "/static/media/wd.780483e45231d03bb7bd.jpg",
+    "static/media/книжка.jpg": "/static/media/книжка.16f01e176008f0b10c7d.jpg",
+    "static/media/sushi.jpg": "/static/media/sushi.8ff401cbd63c72fdbc00.jpg",
+    "static/media/snake.jpg": "/static/media/snake.98517ebc6de5fe22b199.jpg",
+    "static/media/denis.jpg": "/static/media/denis.76b3c56e8a8ffcc68927.jpg",
+    "static/media/CALCULATE.jpg": "/static/media/CALCULATE.4e7be6eacee8f0369a99.jpg",
+    "static/media/block.jpg": "/static/media/block.169c6415e3986413a3b8.jpg",
+    "index.html": "/index.html",
+    "main.e1556955.css.map": "/static/css/main.e1556955.css.map",
+    "main.c43fcc2e.js.map": "/static/js/main.c43fcc2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1556955.css",
+    "static/js/main.c43fcc2e.js"
+  ]
+}
