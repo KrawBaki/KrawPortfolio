@@ -29,18 +29,15 @@ const Portfolio = () => {
                     </div>
                 </div>
                 <div className='portfolio-item'>
-                    <h3 className='portfolio-desr'>Webovio</h3>
-                    <div className='porfolio-img webovio' />
+                    <h3 className='portfolio-desr'>Blog on React</h3>
+                    <div className='porfolio-img blog' />
                     <div className='portfolio-links'>
-                        <a
-                            className='site'
-                            href='https://krawbaki.github.io/Webovios/'
-                            target='_blank'>
+                        <a className='site' href='https://blogon-react.vercel.app/' target='_blank'>
                             Посмотереть
                         </a>
                         <a
                             className='git'
-                            href='https://github.com/KrawBaki/Webovios.git'
+                            href='https://github.com/KrawBaki/BlogonReact.git'
                             target='_blank'>
                             Git
                         </a>
@@ -59,6 +56,60 @@ const Portfolio = () => {
                         <a
                             className='git'
                             href='https://github.com/KrawBaki/DenisNovik.git'
+                            target='_blank'>
+                            Git
+                        </a>
+                    </div>
+                </div>
+                <div className='portfolio-item'>
+                    <h3 className='portfolio-desr'>Webovio</h3>
+                    <div className='porfolio-img webovio' />
+                    <div className='portfolio-links'>
+                        <a
+                            className='site'
+                            href='https://krawbaki.github.io/Webovios/'
+                            target='_blank'>
+                            Посмотереть
+                        </a>
+                        <a
+                            className='git'
+                            href='https://github.com/KrawBaki/Webovios.git'
+                            target='_blank'>
+                            Git
+                        </a>
+                    </div>
+                </div>
+                <div className='portfolio-item'>
+                    <h3 className='portfolio-desr'>Add List</h3>
+                    <div className='porfolio-img addList' />
+                    <div className='portfolio-links'>
+                        <a
+                            className='site'
+                            href='https://krawbaki.github.io/AddList/'
+                            target='_blank'>
+                            Посмотереть
+                        </a>
+                        <a
+                            className='git'
+                            href='https://github.com/KrawBaki/AddList.git'
+                            target='_blank'>
+                            Git
+                        </a>
+                    </div>
+                </div>
+                <div className='portfolio-item'>
+                    <h3 className='portfolio-desr'>Записная книжка</h3>
+                    <div className='porfolio-img books' />
+                    <div className='portfolio-links'>
+                        <a
+                            className='site'
+                            href='https://krawbaki.github.io/LettersBOOK/'
+                            target='_blank'>
+                            Посмотереть
+                        </a>
+                        <a
+                            className='git'
+                            href='https://github.com/KrawBaki/LettersBOOK.git'
                             target='_blank'>
                             Git
                         </a>
@@ -113,44 +164,6 @@ const Portfolio = () => {
                         <a
                             className='git'
                             href='https://github.com/KrawBaki/GameBlock.git'
-                            target='_blank'>
-                            Git
-                        </a>
-                    </div>
-                </div>
-
-                <div className='portfolio-item'>
-                    <h3 className='portfolio-desr'>Записная книжка</h3>
-                    <div className='porfolio-img books' />
-                    <div className='portfolio-links'>
-                        <a
-                            className='site'
-                            href='https://krawbaki.github.io/LettersBOOK/'
-                            target='_blank'>
-                            Посмотереть
-                        </a>
-                        <a
-                            className='git'
-                            href='https://github.com/KrawBaki/LettersBOOK.git'
-                            target='_blank'>
-                            Git
-                        </a>
-                    </div>
-                </div>
-
-                <div className='portfolio-item'>
-                    <h3 className='portfolio-desr'>Add List</h3>
-                    <div className='porfolio-img addList' />
-                    <div className='portfolio-links'>
-                        <a
-                            className='site'
-                            href='https://krawbaki.github.io/AddList/'
-                            target='_blank'>
-                            Посмотереть
-                        </a>
-                        <a
-                            className='git'
-                            href='https://github.com/KrawBaki/AddList.git'
                             target='_blank'>
                             Git
                         </a>
